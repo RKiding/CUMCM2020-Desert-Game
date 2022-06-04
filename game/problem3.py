@@ -1,5 +1,5 @@
 import xpress as xp
-
+#test by a tips
 p = xp.problem()
 
 # 添加变量、约束和目标函数
